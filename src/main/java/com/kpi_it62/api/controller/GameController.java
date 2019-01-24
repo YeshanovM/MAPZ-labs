@@ -9,7 +9,7 @@ import java.util.List;
 
 @Controller
 @RequestMapping("/games")
-class GameController {
+public class GameController {
 
     @RequestMapping(method = RequestMethod.GET)
     @ResponseBody
