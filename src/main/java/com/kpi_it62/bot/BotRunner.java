@@ -1,4 +1,4 @@
-package com.kpi_it62;
+package com.kpi_it62.bot;
 
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.meta.TelegramBotsApi;

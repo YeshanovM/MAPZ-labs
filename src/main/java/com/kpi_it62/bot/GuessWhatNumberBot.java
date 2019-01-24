@@ -1,4 +1,4 @@
-package com.kpi_it62;
+package com.kpi_it62.bot;
 
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
@@ -7,7 +7,7 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 
 public class GuessWhatNumberBot extends TelegramLongPollingBot {
 
-    private static final String BOT_USERNAME = "com.kpi_it62.GuessWhatNumberBot";
+    private static final String BOT_USERNAME = "com.kpi_it62.bot.GuessWhatNumberBot";
 
     private static final String BOT_TOKEN = "774065887:AAHlzaM1ouRgGUXQBzFFPNlBMBA0yCewytk";
 
